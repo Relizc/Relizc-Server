@@ -1,0 +1,23 @@
+# The following locales follow the following format:
+# @<locale name>
+# EN    English
+# CN    Chinese
+# CN_TR Chinese (Traditional)
+# JA    Japanese
+# KO    Korean
+# RU    Russian
+# DE    German
+#
+# Comments starts with '#'
+# If another locale begins without defining all languages, then the unspecified locales are default english.
+# Make sure all keywords (@...) is lowercase, including the locale name.
+
+@game.test
+This is an test!
+这是一个测试！
+這是一個測試！
+これはテストです！
+이것은 테스트입니다!
+Это проверка!
+Das ist ein Test!
+@end

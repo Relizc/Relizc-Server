@@ -1,0 +1,4 @@
+BungeeCord 126
+ProtocolExchange 127
+PatrolExchange 125	
+RS-X Servers 128 ~ 32767

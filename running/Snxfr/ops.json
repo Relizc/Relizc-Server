@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "9fec5a8f-aaf8-39ec-aac7-7f66ae531d4c",
+    "name": "Relizc",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b115215d-3e85-4dc0-bf11-654b9d1308bd",
+    "name": "Relizc",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b6f9f486-c0fe-3b25-84c4-cf4c1b18c3d5",
+    "name": "stop[",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
