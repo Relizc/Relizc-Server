@@ -1,4 +1,5 @@
 BungeeCord 126
 ProtocolExchange 127
-PatrolExchange 125	
+PatrolExchange 125
+MatchmakingExchange 124	
 RS-X Servers 128 ~ 32767

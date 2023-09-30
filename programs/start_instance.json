@@ -1,11 +1,47 @@
 {
-    "game-bridge": [
-        {"ram": 256, "version": "standard-1.8.8", "template": {"world": "!random-bridge"}, "plugins": ["RSGameBridge-1.0.0.jar"]}
-    ],
-    "lobby-main": [
-        {"ram": 256, "version": "standard-1.8.8", "template": {"world": "_world_test1"}, "plugins": ["RSMainLobby-1.0.0.jar"]}
-    ],
-    "smp": [
-        {"type": "smp", "ram": 2048, "version": "allow_nether_allow_end-1.19.2", "template": {"world": "!smpsaved"}, "plugins": ["RSBundler-1.19.jar", "RSGameSMPBase-1.5.0.jar", "RSGameSMPRegular-1.0.0.jar"], "use_default_plugins": false}
-    ]
+  "game-bridge": [
+    {
+      "ram": 256,
+      "version": "standard-1.8.8",
+      "template": { "world": "!random-bridge" },
+      "plugins": [ "RSGameBridge-1.0.0.jar" ]
+    }
+  ],
+  "lobby-main": [
+    {
+      "ram": 256,
+      "version": "standard-1.8.8",
+      "template": { "world": "_world_test1" },
+      "plugins": [ "RSMainLobby-1.0.0.jar" ]
+    }
+  ],
+  "smp": [
+    {
+      "type": "smp",
+      "ram": 2048,
+      "version": "allow_nether_allow_end-1.19.2",
+      "template": { "world": "!smpsaved" },
+      "plugins": [ "RSBundler-1.19.jar", "RSGameSMPBase-1.5.0.jar", "RSGameSMPRegular-1.0.0.jar" ],
+      "use_default_plugins": false
+    }
+  ],
+  "build-public": [
+    {
+      "ram": 4096,
+      "version": "standard-1.8.8",
+      "template": { "world": "!buildpublic" },
+      "plugins": [ "RSBuild-1.0.0.jar", "worldedit.jar" ]
+    }
+  ],
+  "classic-shitwars": [
+    {
+      "ram": 1024,
+      "version": "standard-1.8.8",
+      "template": { "world": "_world_shitwars_alumj_day" },
+      "plugins": [ "RSGameShitwars-1.0.0.jar" ]
+    }
+  ],
+  "classic-duels": [
+    {"type": "classic-duels", "ram": 1024, "version": "standard-1.8.8", "template": {"world": "_world_test1"}, "plugins": ["RSGameDuels-1.0.0.jar"]}
+  ]
 }

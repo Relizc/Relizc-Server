@@ -471,6 +471,20 @@ class ProxyListener:
                             if sub==1:
                                 t="build-public"
                                 shuffle=False
+                        elif cat == 0x05:
+                            if sub == 0:
+                                t = "classic-shitwars"
+                            elif sub == 1:
+                                t = "competitive-shitwars"
+                        elif cat == 0x06:
+                            t = "skyfactory"
+                        elif cat == 0x07:
+                            if sub == 0:
+                                t = "classic-duels"
+                            elif sub == 1:
+                                t = "competitive-duels"
+                                
+                            
 
                         got = None
 

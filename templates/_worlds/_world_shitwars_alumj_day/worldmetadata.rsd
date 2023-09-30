@@ -1,0 +1,38 @@
+{
+  "world": {
+    "id": "_world_shitwars_alumj_day",
+    "author": [ "Relizc", "Abra6325", "oAquatic", "Google Reference Images" ],
+    "date": 0,
+    "description": "This city sucks. It has only one road so the sand god was very angry at this city's people for building such a horrible city and surroundd the city in an inescapable sand pit that everyone perished in there is one house that people still lvie in becasue that house has interior rest of the people live in empty boxes so that house was not punished becasue it actually has stuff so people live in that house. one day some war mans thought this was a trench so they explore and fall in cant escape and they gather at the house but they discover that they are of different sides one group is some robber other is some poliz there are innocent renzhi and they fight and the people use the body of the dead people to climb and escape the place the ehdl",
+    "description_credits": ["Abra6325"],
+    "dimension": "world"
+  },
+  "relation": {
+    "game": {
+      "id": "shitwars",
+      "variation": "any"
+    }
+  },
+  "spawn": [
+    [
+      [ 35, 64, -5 ],
+      [ 29, 64, 3 ]
+    ],
+    [
+      [ -40, 64, 5 ],
+      [ -32, 64, 0 ]
+    ],
+    [
+      []
+    ]
+  ],
+  "achievement_points": {
+    "game.shitwars.love": [
+      [ 30, 0, -121 ],
+      [ 28, 0, -123 ]
+    ],
+    "game.shitwars.ijustwannaclick": [
+      [-563, 78, 0]
+    ]
+  }
+}
